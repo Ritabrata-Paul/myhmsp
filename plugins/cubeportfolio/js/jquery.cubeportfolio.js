@@ -1,13 +1,4 @@
-/**
- * Cube Portfolio - Responsive jQuery Grid Plugin
- *
- * version: 1.4.1 (July 23, 2014)
- * requires jQuery v1.7 or later
- *
- * Copyright (c) 2014, Mihai Buricea (http://scriptpie.com)
- * Released under CodeCanyon License http://codecanyon.net/licenses
- *
- */
+
 
 (function($, window, document, undefined) {
 
